@@ -1,0 +1,8 @@
+Objects are everything
+Objects can have a parent
+Objects can have children (many)
+
+The universe controls
+
+
+
